@@ -1,0 +1,24 @@
+{
+    "name": "tdd-cnr",
+    "version": "0.0.1",
+    "description": "TDD @LaCNR",
+    "author": "CoWorkers",
+    "engines": {
+        "node": ">= 0.8.11"
+    },
+    "main": "./index",
+    "dependencies": {
+        "express": "4.9.5",
+        "body-parser": "1.6.5"
+    },
+    "devDependencies": {
+        "mocha": "1.12.0",
+        "supertest": "0.13.0",
+        "sinon": "1.7.3",
+        "chai": "1.9.1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/nledez/tdd-cnr-js"
+    }
+}
